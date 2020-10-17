@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601233363 source:d:\github\c\sujet_td1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1601233369 source:d:\github\c\sujet_td1\typescaracteres.c
+	<stdio.h>
+	<stdlib.h>
+
