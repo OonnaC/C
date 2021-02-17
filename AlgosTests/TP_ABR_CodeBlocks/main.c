@@ -11,12 +11,12 @@ ABR ajout_f(Info v, ABR A)
         return creer_feuilleABR(v);
 
     }else{
-        if (v =< valracABR(A)){
+        if (v <=S valracABR(A)){
                 A-> g = ajout_f(v, gaucheABR(A));
 
         }else{
             A-> d = ajout_f(v, droitABR(A));
-
+S
         }
         return A;
     }
