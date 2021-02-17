@@ -7,3 +7,8 @@
 
 1613566150 d:\github\c\algostests\tp_abr_codeblocks\tad_abr.h
 
+1613570925 source:d:\github\c\algostests\tp_abr_codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD_ABR.h"
+
