@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1572363282 source:d:\github\c\algostests\projettestc_codeblocks\facto.c
+	"facto.h"
+
+1493389544 d:\github\c\algostests\projettestc_codeblocks\facto.h
+
+1611685216 source:d:\github\c\algostests\projettestc_codeblocks\factotest.c
+	"unity.h"
+	"facto.h"
+
+1493090256 d:\github\c\algostests\projettestc_codeblocks\unity.h
+	"unity_internals.h"
+
+1493090256 d:\github\c\algostests\projettestc_codeblocks\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+
+1572427394 source:d:\github\c\algostests\projettestc_codeblocks\foncf.c
+	"foncF.h"
+
+1572427442 d:\github\c\algostests\projettestc_codeblocks\foncf.h
+
+1612361801 source:d:\github\c\algostests\projettestc_codeblocks\foncftest.c
+	"unity.h"
+	"foncF.h"
+
+1572427410 source:d:\github\c\algostests\projettestc_codeblocks\foncg.c
+	"foncG.h"
+
+1572427452 d:\github\c\algostests\projettestc_codeblocks\foncg.h
+
+1611685476 source:d:\github\c\algostests\projettestc_codeblocks\foncgtest.c
+	"unity.h"
+	"foncG.h"
+
+1572427420 source:d:\github\c\algostests\projettestc_codeblocks\fonch.c
+	"foncH.h"
+
+1572427462 d:\github\c\algostests\projettestc_codeblocks\fonch.h
+
+1611685503 source:d:\github\c\algostests\projettestc_codeblocks\fonchtest.c
+	"unity.h"
+	"foncH.h"
+
+1612361346 source:d:\github\c\algostests\projettestc_codeblocks\main.c
+
+1572427484 source:d:\github\c\algostests\projettestc_codeblocks\max.c
+	<stdio.h>
+	"max.h"
+
+1521727826 d:\github\c\algostests\projettestc_codeblocks\max.h
+
+1611685658 source:d:\github\c\algostests\projettestc_codeblocks\maxtest.c
+	"unity.h"
+	"max.h"
+
+1572427494 source:d:\github\c\algostests\projettestc_codeblocks\racine.c
+	<stdio.h>
+	<math.h>
+	"racine.h"
+
+1521727850 d:\github\c\algostests\projettestc_codeblocks\racine.h
+
+1611685612 source:d:\github\c\algostests\projettestc_codeblocks\racinetest.c
+	"unity.h"
+	"racine.h"
+
+1572363242 source:d:\github\c\algostests\projettestc_codeblocks\somme.c
+	"somme.h"
+
+1521556888 d:\github\c\algostests\projettestc_codeblocks\somme.h
+
+1611686193 source:d:\github\c\algostests\projettestc_codeblocks\sommetest.c
+	"unity.h"
+	"somme.h"
+
+1493090256 source:d:\github\c\algostests\projettestc_codeblocks\unity.c
+	"unity.h"
+	<stddef.h>
+

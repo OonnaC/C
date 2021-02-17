@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1549188384 source:d:\github\c\algostests\tp_abr_codeblocks\tad_abr.c
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	"TAD_ABR.h"
+
+1613566150 d:\github\c\algostests\tp_abr_codeblocks\tad_abr.h
+

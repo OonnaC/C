@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1612320197 source:d:\github\c\tp1_algos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<time.h>
+
+1612471662 source:d:\github\c\algostests\tp1_algos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<time.h>
+
