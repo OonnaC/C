@@ -105,6 +105,13 @@ int main()
     affiche_infixeABR(A);
     printf("\n");
     affiche_postfixeABR(A);
+    detruireABR(A);
+
+    int x;
+    printf("Saisissez le nombre de valeurs que vous souhaitez ajouter à l'arbre : ");
+    scanf("%d .\n",x);
+
+
 
     return 0;
 }
